@@ -1,4 +1,4 @@
 # ahoward-.netrc
 machine github.com
-login Berserker-king
-password Qwerty@1234
+login GITHUB_USERNAME
+password YOUR_GITHUB_PASSWORD
